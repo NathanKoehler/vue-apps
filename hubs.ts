@@ -22,6 +22,7 @@ import Monolith5 from './src/apps/Monolith5_Genres/hubs'
 import Monolith6 from './src/apps/Monolith6_Future/hubs'
 import Monolith7 from './src/apps/Monolith7_Privacy/hubs'
 import Alyx from './src/apps/Room5/Alyx/hubs'
+import TestText from './src/apps/Room_ARVR/Alyx/hubs'
 import Pokemon from './src/apps/Room5/Pokemon/hubs'
 import BeatSaber from './src/apps/Room5/BeatSaber/hubs'
 import WalkingDead from './src/apps/Room5/WalkingDead/hubs'
@@ -109,6 +110,10 @@ export {
     
     //Onboarding and Rotunda
     Exit, Welcome, MitPress, HubsPlatform, HubsFeatures,rotundaMap, Sharing,MitText, HubsPlatform2, Overview, Back, ARVR_monolith, History_monolith,Graphics_monolith,Presence_monolith,Genres_monolith,Privacy_monolith,Future_monolith,
+    
+    //ARVR
+    TestText,
+    
     //Pit 
 
     // Portal titles
