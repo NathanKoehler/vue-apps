@@ -22,7 +22,8 @@ import Monolith5 from './src/apps/Monolith5_Genres/hubs'
 import Monolith6 from './src/apps/Monolith6_Future/hubs'
 import Monolith7 from './src/apps/Monolith7_Privacy/hubs'
 import Alyx from './src/apps/Room5/Alyx/hubs'
-import TestText from './src/apps/Room_ARVR/Alyx/hubs'
+import ARVRHistory from './src/apps/Room_ARVR/History/hubs'
+import MilgramSpectrum from './src/apps/Room_ARVR/Spectrum/hubs'
 import Pokemon from './src/apps/Room5/Pokemon/hubs'
 import BeatSaber from './src/apps/Room5/BeatSaber/hubs'
 import WalkingDead from './src/apps/Room5/WalkingDead/hubs'
@@ -112,7 +113,7 @@ export {
     Exit, Welcome, MitPress, HubsPlatform, HubsFeatures,rotundaMap, Sharing,MitText, HubsPlatform2, Overview, Back, ARVR_monolith, History_monolith,Graphics_monolith,Presence_monolith,Genres_monolith,Privacy_monolith,Future_monolith,
     
     //ARVR
-    TestText,
+    ARVRHistory, MilgramSpectrum,
     
     //Pit 
 
