@@ -4,7 +4,7 @@
   <div class="spacer">
   <Title msg="Milgram Spectrum" />
   <br>
-  <img src="../../../assets/images/Room_ARVR/milgram_portal.png" width="800" >
+  <img src="../../../assets/images/Room_ARVR/milgram_spectrum.png" width="800" >
   </div>
   </div>
   </div> 
