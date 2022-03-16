@@ -60,6 +60,13 @@
     text-align: justify;
     }
 
+  #room .sidebyside {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+  }
+
   .column {
       float: left;
       width: 50%;
