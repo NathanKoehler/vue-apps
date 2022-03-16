@@ -1,4 +1,11 @@
 
+#edit[data-v-91ee6202] {
+  color: #bea7d1;
+}
+#edit.upclose[data-v-91ee6202] {
+  color: #cc0a0a;
+}
+
 .fakeButton[data-v-1221d33f] {
   color: #9803a5;
   background: #a78e06
@@ -7,13 +14,6 @@
 .fakeButton[data-v-1221d33f]:hover {
   color: #a78e06;
   background: #9803a5;
-}
-
-#edit[data-v-91ee6202] {
-  color: #bea7d1;
-}
-#edit.upclose[data-v-91ee6202] {
-  color: #cc0a0a;
 }
 /* http://meyerweb.com/eric/tools/css/reset/
    v4.0 | 20180602
@@ -108,6 +108,13 @@ footer, header, hgroup, main, menu, nav, section {
     text-align: justify;
     }
 
+  #room .sidebyside {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+  }
+
   .column {
       float: left;
       width: 50%;
@@ -181,17 +188,6 @@ footer, header, hgroup, main, menu, nav, section {
       top:-120px;
     }
  
-a[data-v-0a280960] {
-  color: #b542b9;
-}
-.fade[data-v-0a280960] {
-  color: #9803a5;
-  /* transition: color 1s; */
-}
-.fade[data-v-0a280960]:hover {
-  color: #a78e06;
-}
-
 a[data-v-b474cdac] {
   color: #b542b9;
 }
@@ -201,4 +197,15 @@ a[data-v-b474cdac] {
 }
 .fade[data-v-b474cdac]:hover {
   color: #06a71b;
+}
+
+a[data-v-0a280960] {
+  color: #b542b9;
+}
+.fade[data-v-0a280960] {
+  color: #9803a5;
+  /* transition: color 1s; */
+}
+.fade[data-v-0a280960]:hover {
+  color: #a78e06;
 }
