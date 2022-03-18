@@ -3,7 +3,7 @@ import App from './App.vue'
 
 class WebApp extends WebAppProto {
     constructor () {
-        super(App, 900, 450)
+        super(App, 900, 475)
     }
 }
 
