@@ -30,9 +30,21 @@ const shared = inject('shared')
 </script>
 
 <style scoped>
+
+button {
+    width: 120px;
+    color: -internal-light-dark(black, white);
+    text-indent: 0px;
+    text-align: center;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    margin: 0em;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-radius: 2px;
+}
+  
 .fakeButton {
   color: #9803a5;
-  background: #a78e06
+  background: #a78e06;
   /* transition: color 1s; */
 }
 

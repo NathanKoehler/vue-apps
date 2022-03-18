@@ -13,10 +13,12 @@
     "serve": "npm run buildDev && npm run serveV"
   },
   "dependencies": {
-    "ethereal": "^2.0",
+    "@etherealjs/web-layer": "^3.2.0",
     "reveal.js": "^4",
-    "three": "^0.122.0",
-    "vue": "^3.0.5"
+    "three": "^0.136.0",
+    "vue": "^3.0.5",
+    "mathjs": "^9.4.2",
+    "fast-text-encoding": "latest"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.0.0",
