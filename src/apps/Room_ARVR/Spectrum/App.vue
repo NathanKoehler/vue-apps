@@ -4,7 +4,7 @@
   <div class="topdown">
   <Title msg="Milgram Spectrum" />
   <br>
-  <img src="../../../assets/images/Room_ARVR/milgram_spectrum.png" width="400" >
+  <img src="../../../assets/images/Room_ARVR/milgram_spectrum.png" width="600" >
   </div>
   </div>
   </div> 
