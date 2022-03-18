@@ -1,7 +1,7 @@
 <template>
   <div> 
-  <div id="room" class="darkwall">
-  <div class="spacer">
+  <div id="room" class="darkwall center-mount">
+  <div class="topdown">
   <img src="../../../assets/images/Room_ARVR/trompe.png" width="500" >
   <br><br>
   <Title msg="History of AR/VR" />

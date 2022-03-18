@@ -1,7 +1,7 @@
 <template>
   <div> 
-  <div id="room" class="darkwall">
-  <div class="spacer">
+  <div id="room" class="darkwall center-mount">
+  <div class="topdown">
   <Title msg="Milgram Spectrum" />
   <br>
   <img src="../../../assets/images/Room_ARVR/milgram_spectrum.png" width="400" >

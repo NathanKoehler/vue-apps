@@ -60,11 +60,28 @@
     text-align: justify;
     }
 
+  .center-mount {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    place-items: center;
+  }
+
   .sidebyside {
     display: flex;
     width: 100%;
     height: 100%;
     justify-content: space-between;
+    align-items: center;
+  }
+
+  .topdown {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
   }
 
