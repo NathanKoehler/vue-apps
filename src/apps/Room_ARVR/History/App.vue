@@ -2,7 +2,6 @@
   <div> 
   <div id="room" class="darkwall center-mount">
   <div class="topdown">
-  <img src="../../../assets/images/Pit/Original_pit.jpg" width="500" >
   <img src="../../../assets/images/RoomARVR/trompe.png" width="500" >
   <br><br>
   <Title msg="History of AR/VR" />
