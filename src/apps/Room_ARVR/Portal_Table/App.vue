@@ -2,7 +2,7 @@
   <div>
   <div id="room" class="darkwall center-mount">
   <div class="sidebyside">
-  <img src="../../../assets/images/Room_ARVR/portal-table.png" width="500">
+  <img src="../../../assets/images/RoomARVR/portal-table.png" width="500">
   <div style="margin-left: 30px">
   <Title msg="Mediums and Portals" />
   <br><br>
