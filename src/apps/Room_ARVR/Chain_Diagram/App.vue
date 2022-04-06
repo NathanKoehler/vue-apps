@@ -3,7 +3,7 @@
   <div id="room" class="darkwall center-mount">
   <div class="sidebyside">
   <img src="../../../assets/images/Room5/Alyx-splash.png" width="400" >
-  <img src="../../../assets/images/Room_ARVR/chain_diagram.png" width="400">
+  <img src="../../../assets/images/Room_ARVR/chain-diagram.png" width="400">
   <div style="margin-left: 40px">
   <Title msg="Augmented to Reality" />
   <br><br>
